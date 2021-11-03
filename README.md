@@ -1,8 +1,11 @@
 Welcome 👋
 
 👦 My name is Marcus Sena, I'm 27 years old.
+
 🎓 I also started the post graduate in software engineering.
+
 💻 I'm a frontend developer studant and at the moment and i'm learning ReactJS and your resources, more about Javascript and NodeJS. 
+
 🏢 I'm search for my first experience in one job on the TI job market.
 
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/marcusenaof/)
