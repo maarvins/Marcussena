@@ -6,8 +6,6 @@ Welcome 👋
 
 💻 I'm a frontend developer studant and at the moment i'm learning more about ReactJS and your resources, Javascript and NodeJS. 
 
-🏢 I'm search for my first experience in one job on the TI job market.
-
 </br>
 
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" target="_blank">](https://www.instagram.com/marcusenaof/)
